@@ -20,4 +20,4 @@ Can this sequence be considered correct?
 No, the sequence is not correct. The brackets are unbalanced.
 
  The correct version is: `[ ((())()(()) ) ]`
- Only one closing square bracket should be at the end.
+ Only one closing square bracket should be at the end  and one of the square brackets with a round bracket 
